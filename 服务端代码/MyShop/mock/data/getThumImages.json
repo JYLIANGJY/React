@@ -1,0 +1,24 @@
+{
+    "status": 0,
+    "message": [{
+            "id": 11,
+            "img_url": "../../static/lunbo/mv1.jpg"
+        },
+        {
+            "id": 12,
+            "img_url": "../../static/lunbo/mv2.jpg"
+        },
+        {
+            "id": 13,
+            "img_url": "../../static/lunbo/mv3.jpg"
+        },
+        {
+            "id": 14,
+            "img_url": "../../static/lunbo/mv4.jpg"
+        },
+        {
+            "id": 15,
+            "img_url": "../../static/lunbo/mv5.jpg"
+        }
+    ]
+}

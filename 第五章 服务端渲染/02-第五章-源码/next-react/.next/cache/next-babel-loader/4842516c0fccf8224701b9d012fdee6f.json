@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Link from 'next/';","map":{"version":3,"sources":["E:/D/博学谷/React课程/视频录制/案例/next-react/pages/_error.js"],"names":["Link"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,OAAjB","sourcesContent":["import Link from 'next/'"]},"metadata":{},"sourceType":"module"}

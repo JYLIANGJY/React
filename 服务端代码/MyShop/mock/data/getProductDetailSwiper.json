@@ -1,0 +1,34 @@
+{
+    "status": 0,
+    "message": [{
+            "id": 1,
+            "category_id": 17,
+            "img": "../../static/product/huaweiPhone.jpg"
+        },
+        {
+            "id": 2,
+            "category_id": 17,
+            "img": "../../static/product/huaweiPhone1.png"
+        },
+        {
+            "id": 3,
+            "category_id": 17,
+            "img": "../../static/product/huaweiPhone2.png"
+        },
+        {
+            "id": 4,
+            "category_id": 18,
+            "img": "../../static/product/xiaomiPhone.jpg"
+        },
+        {
+            "id": 5,
+            "category_id": 18,
+            "img": "../../static/product/xiaomiPhone1.jpg"
+        },
+        {
+            "id": 6,
+            "category_id": 18,
+            "img": "../../static/product/xiaomiPhone2.jpg"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "status": 0,
+    "message": [{
+            "id": 1,
+            "img": "../../static/lunbo/lunbo1.jpg"
+        },
+        {
+            "id": 2,
+            "img": "../../static/lunbo/lunbo2.jpg"
+        }
+    ]
+}
